@@ -26,6 +26,10 @@
   
   <h1>Projetos!!📚<h1>
     <a href="https://andrepg1184.github.io/Projeto-Cronometro-JavaScript/" target="_blank"><target="_blank">Cronômetro</a>
+    <a href="https://andrepg1184.github.io/Recriando-Interface-Instagran----DIO-/" target="_blank"><target="_blank">interface Instagran</a>
+    <a href="https://andrepg1184.github.io/API-NETFLIX-DIO-/" target="_blank"><target="_blank">API Netflix</a>
+      
+      
   
   
  
