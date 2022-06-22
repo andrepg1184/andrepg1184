@@ -25,8 +25,8 @@
   <a href="https://www.linkedin.com/in/andreleiteti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <h1>Projetos!!📚<h1>
-    <a href="https://andrepg1184.github.io/Projeto-Cronometro-JavaScript/" target="_blank"><target="_blank">Cronômetro</a>
-    <a href="https://andrepg1184.github.io/Recriando-Interface-Instagran----DIO-/" target="_blank"><target="_blank">interface Instagran</a>
+    <a href="https://andrepg1184.github.io/Projeto-Cronometro-JavaScript/" target="_blank"><target="_blank">Cronômetro</a><br>
+    <a href="https://andrepg1184.github.io/Recriando-Interface-Instagran----DIO-/" target="_blank"><target="_blank">Interface Instagran</a><br>
     <a href="https://andrepg1184.github.io/API-NETFLIX-DIO-/" target="_blank"><target="_blank">API Netflix</a>
       
       
