@@ -15,7 +15,7 @@
 </div>
   
   ##
- 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrepg1184&label=Profile%20views&color=127aba&style=plastic" alt="André leite" /> </p>
 <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
