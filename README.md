@@ -23,6 +23,11 @@
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:andreleite1184@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andreleiteti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <h1>Projetos!!📚<h1>
+    <a href="https://andrepg1184.github.io/Projeto-Cronometro-JavaScript/" target="_blank"><target="_blank">Cronômetro</a>
+  
+  
  
   ![Snake animation](https://github.com/andrepg1184/andrepg1184/blob/output/github-contribution-grid-snake.svg)
  
