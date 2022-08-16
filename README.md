@@ -26,8 +26,6 @@
   
   <h1>Projetos!!📚<h1>
     <a href="https://andrepg1184.github.io/Projeto-Cronometro-JavaScript/" target="_blank"><target="_blank">Cronômetro</a><br>
-    <a href="https://andrepg1184.github.io/Recriando-Interface-Instagran----DIO-/" target="_blank"><target="_blank">Interface Instagran</a><br>
-    <a href="https://andrepg1184.github.io/API-NETFLIX-DIO-/" target="_blank"><target="_blank">API Netflix</a><br>
     <a href="https://andrepg1184.github.io/Projeto-Calculadora-Javascript/" target="_blank"><target="_blank">Calculadora-Javascript</a><br>
     <a href="https://game-jogo-da-velha.vercel.app" target="_blank"><target="_blank">jogo da Velha</a><br>
       
