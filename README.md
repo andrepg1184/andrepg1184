@@ -29,6 +29,7 @@
     <a href="https://andrepg1184.github.io/Recriando-Interface-Instagran----DIO-/" target="_blank"><target="_blank">Interface Instagran</a><br>
     <a href="https://andrepg1184.github.io/API-NETFLIX-DIO-/" target="_blank"><target="_blank">API Netflix</a><br>
     <a href="https://andrepg1184.github.io/Projeto-Calculadora-Javascript/" target="_blank"><target="_blank">Calculadora-Javascript</a><br>
+    <a href="https://game-jogo-da-velha.vercel.app" target="_blank"><target="_blank">jogo da Velha</a><br>
       
       
   
